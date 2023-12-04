@@ -1,6 +1,6 @@
 # 文心大模型ernie驱动的airsim
 ## 1. 项目简介
-本项目是基于ernie的airsim驱动， 
+本项目是基于ernie大模型驱动airsim模拟仿真的无人机， 
 
 让airsim的达到原论文"工程师"在环---->"用户在环"的目标
 
